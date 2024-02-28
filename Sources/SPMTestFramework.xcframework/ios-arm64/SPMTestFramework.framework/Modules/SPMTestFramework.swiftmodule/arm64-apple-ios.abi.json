@@ -59,6 +59,13 @@
       "offset": 198,
       "length": 29,
       "value": "\"<Start> SPMTestFramework...\""
+    },
+    {
+      "filePath": "\/Users\/ergeakova\/Desktop\/SPMTestFramework\/SPMTestFramework\/SPMTestFramework.swift",
+      "kind": "StringLiteral",
+      "offset": 316,
+      "length": 25,
+      "value": "\"<Private> private Print\""
     }
   ]
 }

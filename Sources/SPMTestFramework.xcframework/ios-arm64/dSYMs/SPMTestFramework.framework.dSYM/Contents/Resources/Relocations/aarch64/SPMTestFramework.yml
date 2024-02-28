@@ -2,10 +2,10 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/ergeakova/Library/Developer/Xcode/DerivedData/SPMTestFramework-gkxmymqnwyevthgwljmutvnbqwey/Build/Intermediates.noindex/ArchiveIntermediates/SPMTestFramework/InstallationBuildProductsLocation/Library/Frameworks/SPMTestFramework.framework/SPMTestFramework'
 relocations:
-  - { offsetInCU: 0x34, offset: 0x2DFDC, size: 0x8, addend: 0x0, symName: _SPMTestFrameworkVersionString, symObjAddr: 0x0, symBinAddr: 0x4100, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x2E011, size: 0x8, addend: 0x0, symName: _SPMTestFrameworkVersionNumber, symObjAddr: 0x40, symBinAddr: 0x4140, symSize: 0x0 }
-  - { offsetInCU: 0x27, offset: 0x2E04E, size: 0x8, addend: 0x0, symName: '_$s16SPMTestFrameworkAAV5startyyFZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
-  - { offsetInCU: 0x67, offset: 0x2E08E, size: 0x8, addend: 0x0, symName: '_$s16SPMTestFrameworkAAV5startyyFZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
-  - { offsetInCU: 0xE8, offset: 0x2E10F, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x40 }
-  - { offsetInCU: 0xFC, offset: 0x2E123, size: 0x8, addend: 0x0, symName: '_$s16SPMTestFrameworkAAVMa', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x10 }
+  - { offsetInCU: 0x34, offset: 0x2DFDC, size: 0x8, addend: 0x0, symName: _SPMTestFrameworkVersionString, symObjAddr: 0x0, symBinAddr: 0x4FE0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x2E011, size: 0x8, addend: 0x0, symName: _SPMTestFrameworkVersionNumber, symObjAddr: 0x40, symBinAddr: 0x5020, symSize: 0x0 }
+  - { offsetInCU: 0x2B, offset: 0x2E052, size: 0x8, addend: 0x0, symName: '_$s16SPMTestFrameworkAAV5startyyFZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xEC }
+  - { offsetInCU: 0x89, offset: 0x2E0B0, size: 0x8, addend: 0x0, symName: '_$s16SPMTestFrameworkAAV5startyyFZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xEC }
+  - { offsetInCU: 0x17B, offset: 0x2E1A2, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x40 }
+  - { offsetInCU: 0x18F, offset: 0x2E1B6, size: 0x8, addend: 0x0, symName: '_$s16SPMTestFrameworkAAVMa', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x10 }
 ...
