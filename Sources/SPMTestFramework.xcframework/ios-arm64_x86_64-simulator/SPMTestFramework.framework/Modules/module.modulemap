@@ -1,0 +1,11 @@
+framework module SPMTestFramework {
+  umbrella header "SPMTestFramework.h"
+  export *
+
+  module * { export * }
+}
+
+module SPMTestFramework.Swift {
+  header "SPMTestFramework-Swift.h"
+  requires objc
+}
